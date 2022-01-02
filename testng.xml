@@ -5,7 +5,6 @@
     <classes>
       <class name="TestScripts.TC1"/>
       <class name="TestScripts.TC2"/>
-      <class name="Maven_flow.flow.AppTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
